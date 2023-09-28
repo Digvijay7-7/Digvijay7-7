@@ -22,12 +22,13 @@
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=plastic&logo=javascript&logoColor=white" alt="JavaScript" height=20>
   <img src="https://img.shields.io/badge/SQL-%23212121?style=plastic&logo=sql&logoColor=white" alt="SQL" height=20>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=plastic&logo=mysql&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white" height="20" alt="MongoDB">
   <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black" height=20>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=plastic&logo=Jupyter&logoColor=white" height=20>
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=plastic&logo=visual%20studio&logoColor=white" height=20>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white" height="20" alt="VS Code">
   <img src="https://img.shields.io/badge/Atom-66595C?style=plastic&logo=Atom&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=plastic&logo=PyCharm&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=plastic&logo=windows%20terminal&logoColor=white" height=20>
