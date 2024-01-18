@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/C-00599C?style=plastic&logo=c&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/OpenCV-27338e?style=plastic&logo=OpenCV&logoColor=white" height=20>
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=plastic&logo=pandas&logoColor=white" height=20>
-  <img src="https://img.shields.io/badge/Matplotlib-blue?style=plastic&logo=Matplotlib&logoColor=white" alt="Matplotlib" height=20>
+  <img src="https://img.shields.io/badge/Matplotlib-blue?style=plastic&logo=matplotlib&logoColor=white" alt="Matplotlib" height=20>
   <img src="https://img.shields.io/badge/HTML-blue?style=plastic&logo=html5&logoColor=white" alt="HTML" height=20>
   <img src="https://img.shields.io/badge/CSS-green?style=plastic&logo=css3&logoColor=white" alt="CSS" height=20>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=plastic&logo=javascript&logoColor=white" alt="JavaScript" height=20>
